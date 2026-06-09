@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pro Stream",
+  "description": "A feature-rich local and network media streaming center for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
